@@ -1,92 +1,111 @@
 <div align="center">
-  <img src="https://media.tenor.com/MYYuTuYjyTkAAAAM/zorua-laughing.gif" width="250" alt="Zorua Cutie" />
-  
-  <h1 align="center">✨ A Wild Frontend Dev Appeared! ✨</h1>
+  <img src="https://media.tenor.com/MYYuTuYjyTkAAAAM/zorua-laughing.gif" width="200" alt="Zorua" />
+</div>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&pause=1000&color=F7DF1E&background=00000000&center=true&vCenter=true&width=500&lines=Trainer+Robim+wants+to+battle!;Class:+Frontend+Architect+%26+Game+Dev;Special+Move:+Pixel+Perfect+CSS" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Frontend+Specialist;Building+Digital+Experiences" alt="Typing SVG" />
+</h1>
+
+<div align="center">
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USER">
+    <img src="https://img.shields.io/badge/Instagram-DC143C?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@GMAIL.COM">
+    <img src="https://img.shields.io/badge/Gmail-DC143C?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/linkedin-DC143C?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
-<p align="center">
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USER">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@GMAIL.COM">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<br/>
 
----
-
-<table>
+<table width="100%">
   <tr>
-    <td width="65%" valign="center">
-      <h3>⚡ Trainer Card: Robim</h3>
-      <ul>
-        <li><strong>🧢 Class:</strong> Frontend Developer & UI Enthusiast</li>
-        <li><strong>👾 Current Quest:</strong> Building a Tinder for Pets 🐶</li>
-        <li><strong>🎒 Inventory:</strong> VS Code, Coffee, and infinite patience.</li>
-        <li><strong>💬 Motto:</strong> <i>"If it's not responsive, it's a bug."</i></li>
-      </ul>
+    <td width="60%" valign="top">
+      <h2>About Me</h2>
+      <p>
+        Full-stack developer with a passion for crafting elegant frontend experiences. I specialize in building responsive, user-centric applications that blend functionality with beautiful design.
+      </p>
+      <p>
+        Currently working on innovative projects including a pet-matching platform. I believe in writing clean, maintainable code and creating interfaces that users love to interact with.
+      </p>
+      <p>
+        When I'm not coding, you'll find me exploring new technologies, experimenting with game engines for fun, or perfecting that pixel-perfect design.
+      </p>
     </td>
-    <td width="35%" align="center">
-      <img src="https://media.tenor.com/fSsxFTZ_mSYAAAAi/pikachu-running.gif" width="120" alt="Pikachu Running">
+    <td width="40%" align="center">
+      <img src="https://i.pinimg.com/originals/a9/85/0b/a9850b782a770c85f8c5f5f8a2218fbb.gif" width="280" alt="Zoroark" />
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-<h3 align="center">⚔️ Battle Moves (Tech Stack)</h3>
+<h2 align="center">Tech Stack</h2>
+
+<h3>Languages</h3>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=239120" />
+</p>
+
+<h3>Frameworks & Libraries</h3>
+<p>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=43853D" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" />
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+</p>
+
+<h3>Databases & Backend</h3>
+<p>
+  <img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
+  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=Firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+</p>
+
+<h3>Tools & Software</h3>
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37" />
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF" />
+  <img src="https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godot-engine&logoColor=478CBF" />
+  <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00C4CC" />
+  <img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=android-studio&logoColor=3DDC84" />
+  <img src="https://img.shields.io/badge/Microsoft_Word-000000?style=for-the-badge&logo=microsoft-word&logoColor=2B579A" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=217346" />
+</p>
+
+<br/>
+
+<h2 align="center">Most Used Languages</h2>
 
 <div align="center">
-  <h4>🔹 Frontend Mastery</h4>
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robim5&layout=compact&hide_border=true&bg_color=0d1117&title_color=DC143C&text_color=ffffff&icon_color=DC143C&langs_count=8" alt="Top Languages" />
 </div>
+
+<br/>
 
 <div align="center">
-  <h4>🔸 Backend & Data</h4>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Robim5&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff" alt="GitHub Stats" />
 </div>
+
+<br/>
 
 <div align="center">
-  <h4>🎮 Game Dev & Tools</h4>
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robim5&theme=dark&hide_border=true&background=0d1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" alt="GitHub Streak" />
 </div>
 
----
-
-<h3 align="center">📟 Pokédex Data</h3>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Robim5&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=F7DF1E&icon_color=a855f7&text_color=ffffff"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robim5&layout=compact&hide_border=true&bg_color=0d1117&title_color=F7DF1E&text_color=ffffff&icon_color=a855f7"/>
-</div>
-
-<h3 align="center">🐍 Rare Candy Consumption (Commits)</h3>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Robim5/Robim5/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+<br/>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50" alt="Pokeball" />
+  <img src="https://komarev.com/ghpvc/?username=Robim5&color=DC143C&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
