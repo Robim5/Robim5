@@ -88,7 +88,7 @@
 
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Robim5&theme=radical" width="300" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Robim5&theme=radical" width="640" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Robim5&theme=radical" width="490" />
   </p>
 
 <br>
