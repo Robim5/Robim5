@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/MYYuTuYjyTkAAAAM/zorua-laughing.gif" width="150" alt="Zorua" />
+<img src="https://media.tenor.com/MYYuTuYjyTkAAAAM/zorua-laughing.gif" width="250" alt="Zorua" />
 
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Frontend+Specialist;ZORUA+LOVER" alt="Typing SVG" />
