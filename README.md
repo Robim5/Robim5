@@ -87,8 +87,8 @@
 <h2> <img src="https://cdn.pixabay.com/animation/2025/06/26/05/26/05-26-59-506_512.gif" width="22"> GitHub Stats</h2>
 
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Robim5&theme=radical" width="300" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Robim5&theme=radical" width="490" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Robim5&theme=radical" width="260" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Robim5&theme=radical" width="530" />
   </p>
 
 <br>
