@@ -27,23 +27,30 @@
 <div align="center">
   <h2><img src="https://cdn.pixabay.com/animation/2023/11/01/09/27/09-27-12-411_512.gif" width="22"> About Me</h2>
 </div>
-<img align="right" src="https://i.pinimg.com/originals/b0/b9/e7/b0b9e7e085cd16ddae056371e378f352.gif" width="300" alt="Zorua" />
-
-<p>
-  <strong>Hey!</strong> i'm full-stack developer specializing in frontend development.
-</p>
-
-<p>
-   Currently building a pet-matching platform and exploring new technologies. 
-</p>
-
-<p>
-    I love turning ideas into reality through code 
-</p>
-
-<p>
-  Pokemon fan since I was born!
-</p>
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <br>
+      <p>
+        <strong>Hey!</strong> I'm a full-stack developer specializing in frontend development.
+      </p>
+      <p>
+        Currently building a pet-matching platform and exploring new technologies.
+      </p>
+      <p>
+        I love turning ideas into reality through code.
+      </p>
+      <p>
+        Pokemon fan since I was born!
+      </p>
+    </td>
+    <td valign="center" width="40%">
+      <div align="center">
+        <img src="https://i.pinimg.com/originals/b0/b9/e7/b0b9e7e085cd16ddae056371e378f352.gif" width="100%" alt="Zorua" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
