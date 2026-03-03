@@ -9,6 +9,10 @@
 <div>
 
 <h3>
+    <a href="https://robfolio-ten.vercel.app/" target="_blank">
+      <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="35" />
+    </a>
+    &nbsp;
     <a href="https://instagram.com/xrob55" target="_blank">
       <img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="35" />
     </a>
@@ -51,7 +55,9 @@
     </td>
   </tr>
 </table>
-
+<a href="https://robfolio-ten.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐 Portfolio-FF0000?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>
 <br><br>
 
 <div align="center">
