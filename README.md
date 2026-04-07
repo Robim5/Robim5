@@ -83,7 +83,7 @@
 <h3>Tools & Software</h3>
 <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma,postman,androidstudio&theme=dark" />
 <br>
-<img src="https://skillicons.dev/icons?i=unity,godot,unreal&theme=dark" />
+<img src="https://skillicons.dev/icons?i=godot&theme=dark" />
 <br>
 <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" />
